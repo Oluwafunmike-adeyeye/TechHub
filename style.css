@@ -1,0 +1,51 @@
+.navbar-background{
+    background-color: #FFEFEF;
+}
+
+.ourstory{
+    background-image: url(https://res.cloudinary.com/oluwaloni/image/upload/v1662981153/Group_205.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: 15rem;
+    margin-bottom: 5rem;
+}
+
+.laptoplady{
+    position: absolute;
+    top: -269px;
+    left: 20px;
+    max-width: 100%;
+    height: auto;
+}
+
+.article{
+    background-color: #FFEFEF;
+}
+
+.col-md-8{
+    border-radius: 20px;
+}
+.tech{
+    border-radius: 20px;
+}
+.apply{
+    width: 20%;
+    border-radius: 10px;
+    border: 2px solid;
+}
+
+.info{
+    background: #595959;
+}
+hr{
+    border: 2px solid #FFFFFF;
+    border-radius: 2px;
+}
+.long{
+    color: #FFFFFF;
+}
+.foot{
+    background: #595959;
+    text-align: center;
+}
